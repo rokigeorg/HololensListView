@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ListView/Example/exampleScene.unity
+  isLoaded: 1
+  isActive: 1
